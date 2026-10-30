@@ -514,7 +514,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
 
-- **LinkedIn**: [Connect with me professionally](in/lokesh-singh-manola-72202b253)
+- **LinkedIn**: https://www.linkedin.com/in/lokesh-singh-manola-72202b253/
 - **TwitterX**: https://twitter.com/LokeshManola1?t=5garmG8rm0UVWbtgpZyP5Q&s=09
 
 Thank you for your interest in this project!
