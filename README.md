@@ -162,10 +162,10 @@ HAVING COUNT(issued_id) > 1
 
 ### 3. CTAS (Create Table As Select)
 
-- **Task 6: Create Summary Tables**: Used CTAS to generate new tables based on query results - each book and total book_issued_cnt**
+- **Task 6: Create Summary Tables**: Used CTAS to generate new tables based on query results - each book and total book_issued_count**
 
 ```sql
-CREATE TABLE book_issued_cnt AS
+CREATE TABLE book_issued_count AS
 SELECT b.isbn, b.book_title, COUNT(ist.issued_id) AS issue_count
 FROM issued_status as ist
 JOIN books as b
