@@ -191,7 +191,7 @@ WHERE category = 'Classic';
 SELECT 
     b.category,
     SUM(b.rental_price),
-    COUNT(issued_id) AS no_of_times_issued
+    COUNT(ist.issued_id) AS no_of_times_issued
 FROM 
 issued_status as ist
 JOIN
